@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Aaa2122?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/Public%20repos-6-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://github.com/Aaa2122?tab=repositories"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-public%20work-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-visual%20systems-7C3AED?style=for-the-badge&labelColor=0D1117" />
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Aaa2122&style=for-the-badge&color=22D3EE&label=Profile%20views" />
   <a href="https://github.com/Aaa2122?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Aaa2122?style=for-the-badge&logo=github&labelColor=0D1117&color=7C3AED" /></a>
