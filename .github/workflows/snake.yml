@@ -1,0 +1,64 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate SVG assets
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated assets to output branch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          tmp_dir="$(mktemp -d)"
+          cp -R dist/. "$tmp_dir"/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin output > /dev/null 2>&1; then
+            git fetch origin output:refs/remotes/origin/output
+            git switch --track origin/output
+          else
+            git switch --orphan output
+          fi
+
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R "$tmp_dir"/. .
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No contribution snake changes to publish."
+            exit 0
+          fi
+
+          git commit -m "Generate contribution snake"
+          git push --force-with-lease origin output
