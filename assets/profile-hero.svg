@@ -1,0 +1,94 @@
+<svg width="1600" height="720" viewBox="0 0 1600 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Auguste Sagaert profile hero</title>
+  <desc id="desc">Minimal 3D glass composition for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.56" stop-color="#F5F5F7"/>
+      <stop offset="1" stop-color="#E8E8ED"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="200" y1="120" x2="760" y2="490" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111111"/>
+      <stop offset="1" stop-color="#6E6E73"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="870" y1="150" x2="1340" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="0.55" stop-color="#F5F5F7" stop-opacity="0.76"/>
+      <stop offset="1" stop-color="#D2D2D7" stop-opacity="0.72"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="876" y1="156" x2="1327" y2="542" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#A1A1A6"/>
+    </linearGradient>
+    <filter id="shadow" x="708" y="76" width="758" height="570" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="34"/>
+      <feGaussianBlur stdDeviation="34"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.11 0 0 0 0 0.11 0 0 0 0 0.12 0 0 0 0.18 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="soft" x="740" y="110" width="650" height="460" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="720" fill="url(#bg)"/>
+  <path d="M0 645C235 598 409 620 594 648C851 687 1076 713 1600 606V720H0V645Z" fill="#FFFFFF" fill-opacity="0.64"/>
+
+  <g opacity="0.55">
+    <path d="M906 187L1312 276L1169 486L760 398L906 187Z" stroke="#D2D2D7" stroke-width="1"/>
+    <path d="M871 237L1275 326" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M836 287L1241 377" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M802 337L1206 427" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M955 197L810 408" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M1007 208L862 419" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M1059 220L914 431" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M1111 231L966 442" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M1163 242L1018 453" stroke="#E2E2E7" stroke-width="1"/>
+    <path d="M1215 254L1070 465" stroke="#E2E2E7" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M907.802 141.419C918.515 126.367 936.565 118.312 954.827 120.438L1331.79 164.308C1369.78 168.728 1388.32 214.762 1363.81 244.121L1127.15 527.585C1115.54 541.49 1097.4 548.196 1079.56 545.179L739.755 487.707C704.032 481.667 687.389 439.818 708.39 410.295L907.802 141.419Z" fill="url(#edge)"/>
+    <path d="M919.099 157.705C928.343 144.724 943.879 137.775 959.643 139.611L1326.26 182.284C1352.86 185.379 1365.84 217.604 1348.69 238.155L1115.27 517.745C1105.25 529.745 1089.6 535.532 1074.2 532.927L747.227 477.621C722.219 473.391 710.568 444.097 725.269 423.431L919.099 157.705Z" fill="url(#glass)"/>
+  </g>
+
+  <g filter="url(#soft)" opacity="0.42">
+    <path d="M965 169L1308 207L1090 495L768 447L965 169Z" fill="#FFFFFF"/>
+  </g>
+
+  <g opacity="0.86">
+    <path d="M836 405C930 313 1017 295 1094 351C1149 391 1210 391 1283 328" stroke="#1D1D1F" stroke-width="10" stroke-linecap="round"/>
+    <path d="M836 405C930 313 1017 295 1094 351C1149 391 1210 391 1283 328" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="836" cy="405" r="18" fill="#111111"/>
+    <circle cx="1094" cy="351" r="18" fill="#6E6E73"/>
+    <circle cx="1283" cy="328" r="18" fill="#111111"/>
+  </g>
+
+  <g opacity="0.92">
+    <path d="M998 230L1116 254L1070 326L949 301L998 230Z" fill="#1D1D1F"/>
+    <path d="M1116 254L1176 315L1126 389L1070 326L1116 254Z" fill="#6E6E73"/>
+    <path d="M949 301L1070 326L1126 389L1002 361L949 301Z" fill="#A1A1A6"/>
+    <path d="M998 230L1116 254L1176 315L1126 389L1002 361L949 301L998 230Z" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <g opacity="0.28">
+    <path d="M763 506L1103 564L1324 292" stroke="#1D1D1F" stroke-width="2" stroke-dasharray="8 12"/>
+    <path d="M870 174L763 506" stroke="#1D1D1F" stroke-width="2" stroke-dasharray="8 12"/>
+  </g>
+
+  <g>
+    <text x="160" y="214" fill="#6E6E73" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="4">AUGUSTE SAGAERT</text>
+    <text x="160" y="302" fill="url(#ink)" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Visual systems</text>
+    <text x="160" y="382" fill="url(#ink)" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">with depth.</text>
+    <text x="162" y="456" fill="#6E6E73" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="28">3D interfaces / maps / graphics / developer tools</text>
+    <rect x="160" y="510" width="155" height="46" rx="23" fill="#111111"/>
+    <text x="190" y="540" fill="#FFFFFF" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">FPV Viewer</text>
+    <rect x="333" y="510" width="132" height="46" rx="23" fill="#FFFFFF" stroke="#D2D2D7"/>
+    <text x="365" y="540" fill="#1D1D1F" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">OpenGL</text>
+    <rect x="483" y="510" width="126" height="46" rx="23" fill="#FFFFFF" stroke="#D2D2D7"/>
+    <text x="518" y="540" fill="#1D1D1F" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Maps</text>
+  </g>
+</svg>
