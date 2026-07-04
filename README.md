@@ -1,8 +1,5 @@
 <!-- Public GitHub profile for Aaa2122. Last curated: 2026-07-04. -->
 
-<div align="center">
-  <img width="100%" alt="Soft abstract profile banner" src="https://raw.githubusercontent.com/Aaa2122/Aaa2122/main/assets/profile-hero.svg" />
-</div>
 
 <h1 align="center">Auguste Sagaert</h1>
 
