@@ -1,19 +1,21 @@
 <!-- Public GitHub profile for Aaa2122. Last curated: 2026-07-04. -->
 
 <div align="center">
-  <img width="100%" alt="Auguste Sagaert - visual systems with depth" src="https://raw.githubusercontent.com/Aaa2122/Aaa2122/main/assets/profile-hero.svg" />
+  <img width="100%" alt="Soft abstract profile banner" src="https://raw.githubusercontent.com/Aaa2122/Aaa2122/main/assets/profile-hero.svg" />
 </div>
 
-<br />
+<h1 align="center">Auguste Sagaert</h1>
 
 <p align="center">
-  I design polished visual tools that bring together 3D interfaces, real-time graphics, geospatial systems, and clean developer workflows.
+  <a href="https://github.com/Aaa2122/FPV-Viewver">FPV Viewer</a> ·
+  <a href="https://github.com/Aaa2122/CrudeMap">CrudeMap</a> ·
+  <a href="https://github.com/Aaa2122/ComputerGraphics">OpenGL Renderer</a> ·
+  <a href="https://github.com/Aaa2122/GeometricModeling">Geometric Modeling</a> ·
+  <a href="https://github.com/Aaa2122/Better-Windows">Better-Windows</a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/Aaa2122?tab=repositories"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-public%20work-111111?style=flat-square&logo=github&logoColor=white" /></a>
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-visual%20systems-6E6E73?style=flat-square" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Aaa2122&style=flat-square&color=111111&label=views" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Aaa2122&style=flat-square&color=0071E3&label=views" />
 </div>
 
 ## Selected Work
@@ -70,28 +72,20 @@
 ## Toolbox
 
 <div align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-111111?style=flat-square&logo=opengl&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=white" />
+  <img alt="Core tools" src="https://skillicons.dev/icons?i=cpp,cmake,ts,react,threejs,vite,tailwind,py,fastapi,postgres,docker,powershell,git,github,vscode&perline=8" />
 </div>
 
 ## Activity
 
 <div align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aaa2122&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=6E6E73&icon_color=1D1D1F&rank_icon=github&include_all_commits=true&custom_title=GitHub%20signal" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaa2122&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=6E6E73&langs_count=8" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aaa2122&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D1D1F&text_color=6E6E73&icon_color=0071E3&rank_icon=github&include_all_commits=true&custom_title=GitHub%20signal" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaa2122&layout=compact&hide_border=true&bg_color=00000000&title_color=1D1D1F&text_color=6E6E73&langs_count=8" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaa2122&hide_border=true&bg_color=00000000&color=6E6E73&line=111111&point=111111&area=true&area_color=D2D2D7" />
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaa2122&hide_border=true&bg_color=00000000&color=6E6E73&line=0071E3&point=FF9F0A&area=true&area_color=D9ECFF" />
 </div>
 
 ## Contributions
@@ -101,7 +95,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaa2122/Aaa2122/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aaa2122/Aaa2122/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<div align="center">
-  <a href="https://github.com/Aaa2122?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore%20repositories-111111?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
