@@ -36,7 +36,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Aaa2122/HyperAgent">
-        <img alt="HyperAgent architecture" src="https://raw.githubusercontent.com/Aaa2122/HyperAgent/main/docs/assets/hyperagent-architecture.png" width="100%" />
+        <img alt="HyperAgent architecture" src="https://raw.githubusercontent.com/Aaa2122/HyperAgent/main/docs/assets/infographic-agent-flow.png" width="100%" />
       </a>
       <h3><a href="https://github.com/Aaa2122/HyperAgent">HyperAgent</a></h3>
       <p>Multi-agent trading system with isolated research, deterministic risk controls, durable execution intents, reconciliation, and an operator dashboard.</p>
