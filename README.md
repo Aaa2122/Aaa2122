@@ -71,29 +71,4 @@
   </tr>
 </table>
 
-## Toolbox
 
-<div align="center">
-  <img alt="Core tools" src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,cpp,cmake,ts,react,threejs,vite,tailwind,powershell,git,github,vscode&perline=8" />
-</div>
-
-## Activity
-
-<div align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aaa2122&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D1D1F&text_color=6E6E73&icon_color=0071E3&rank_icon=github&include_all_commits=true&custom_title=GitHub%20signal" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaa2122&layout=compact&hide_border=true&bg_color=00000000&title_color=1D1D1F&text_color=6E6E73&langs_count=8" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaa2122&hide_border=true&bg_color=00000000&color=6E6E73&line=0071E3&point=FF9F0A&area=true&area_color=D9ECFF" />
-</div>
-
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaa2122/Aaa2122/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaa2122/Aaa2122/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aaa2122/Aaa2122/output/github-contribution-grid-snake.svg" />
-</picture>
