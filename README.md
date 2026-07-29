@@ -2,18 +2,6 @@
 
 <h1 align="center">Auguste Sagaert</h1>
 
-<p align="center">
-  <a href="https://github.com/Aaa2122/FPV-Viewver">FPV Viewer</a> ·
-  <a href="https://github.com/Aaa2122/secrag">secrag</a> ·
-  <a href="https://github.com/Aaa2122/HyperAgent">HyperAgent</a> ·
-  <a href="https://github.com/Aaa2122/Wave">Wave</a> ·
-  <a href="https://github.com/Aaa2122/CrudeMap">CrudeMap</a>
-</p>
-
-<div align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Aaa2122&style=flat-square&color=0071E3&label=views" />
-</div>
-
 ## Selected Work
 
 <table>
